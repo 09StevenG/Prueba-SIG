@@ -45,4 +45,20 @@ _Texto en itálica_
 
 > "Etiam enim purus, sollicitudin nec lobortis et, ornare nec ante. Proin sit amet justo tempor, consequat tellus vel, porttitor tellus. Nulla egestas at magna ac semper. Morbi posuere lacinia viverra. Nunc posuere neque eget nulla auctor, a fermentum orci pulvinar. Maecenas at sagittis arcu. Morbi vehicula euismod malesuada"(Rodríguez,2022,p.01).
 
-> "*En un lugar de la Mancha
+> "*En un lugar de la Mancha...*" Miguel de Cervantes 
+
+**Lista numerada**
+
+1. Primer elemento 
+2. Segundo elemenyto 
+3. Tercer elemnto 
+
+
+**Lista no numerada**
+- Primer elemento 
+- Segundo elemneto 
+- Tercer elemento
+
+- Primero
+- Segundo
+-     Tercero  
