@@ -70,5 +70,6 @@ _Texto en itálica_
 
 ![](Yamato.jpg)
 
+# Imagen sintaxis html
 <img src="Yamato.jpg" width="200" height="100">
  
