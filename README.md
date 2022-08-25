@@ -6,7 +6,7 @@ Enlace al sitio web de la Universidad de Costa Rica
 
 ## Segundo nivel 
 
-###Tercer nivel
+### Tercer nivel
 
 
 **Texto negrita 
