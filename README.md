@@ -68,7 +68,7 @@ _Texto en itálica_
  [Costa Rica por siempre](https://costaricaporsiempre.org/).
  
  
-![](https://es.wikipedia.org/wiki/Wikipedia:Portada#/media/Archivo:Yamato_during_Trial_Service.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/3/30/Yamato_during_Trial_Service.jpg)
 
 
  
