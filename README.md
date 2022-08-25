@@ -78,4 +78,4 @@ _Texto en itálica_
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Vincent_van_Gogh_-_The_Church_in_Auvers-sur-Oise%2C_View_from_the_Chevet_-_Google_Art_Project.jpg/800px-Vincent_van_Gogh_-_The_Church_in_Auvers-sur-Oise%2C_View_from_the_Chevet_-_Google_Art_Project.jpg" width="200">
 
-![](https://files.worldwildlife.org/wwfcmsprod/images/Nepal_Tigers_Running_90tpudad72/story_full_width/2m0wmk2b2y__NEPAL__Two_young_wild_tigers_running_along_riverside_in_Bardia_National_Park_Nepal__Shutterstock___Paco_Como.jpg"Imagen de jaguares Nepal")
+![Jaguares Nepal](https://files.worldwildlife.org/wwfcmsprod/images/Nepal_Tigers_Running_90tpudad72/story_full_width/2m0wmk2b2y__NEPAL__Two_young_wild_tigers_running_along_riverside_in_Bardia_National_Park_Nepal__Shutterstock___Paco_Como.jpg "Imagen de jaguares Nepal")
