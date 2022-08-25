@@ -17,3 +17,6 @@ Enlace al sitio web de la Universidad de Costa Rica
 
 Heading level 1
 ===============
+
+Heading level 2
+---------------
