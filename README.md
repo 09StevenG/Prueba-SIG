@@ -36,7 +36,7 @@ Otra línea
 **Texto en negrita**  
 __Otro texto__
 
-*Texto en itálica*
+*Texto en itálica*  
 _Texto en itálica_
 
 
