@@ -39,6 +39,6 @@ __Otro texto__
 *Texto en itálica*  
 _Texto en itálica_
 
-***Texto en negrita y en itálica***
+***Texto en negrita y en itálica***  
 **_Otro texto en negrita e itálica_**
 
