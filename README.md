@@ -40,5 +40,5 @@ __Otro texto__
 _Texto en itálica_
 
 ***Texto en negrita y en itálica***
-
+**_Otro texto en negrita e itálica_**
 
