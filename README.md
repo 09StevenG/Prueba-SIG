@@ -69,5 +69,6 @@ _Texto en itálica_
  
 
 ![](Yamato.jpg)
- 
+
+<img src="Yamato.jpg" width="200" height="100">
  
