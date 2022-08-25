@@ -70,6 +70,6 @@ _Texto en itálica_
  
 ![](https://upload.wikimedia.org/wikipedia/commons/3/30/Yamato_during_Trial_Service.jpg)
 
-
+![Yamato.jpg]
  
  
